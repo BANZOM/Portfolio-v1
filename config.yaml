@@ -11,7 +11,7 @@ menu:
       weight: 10
     - identifier: blog
       name: Blog
-      url: /blog
+      url: /blogs
       weight: 20
     - identifier: experience
       name: Experience
