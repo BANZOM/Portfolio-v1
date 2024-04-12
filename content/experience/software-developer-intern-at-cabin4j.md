@@ -4,7 +4,8 @@ description: ""
 dateString: August 2023 - Present
 draft: false
 tags: ["java", "DevOps", "AWS", "CI/CD", "bash", "springboot"]
-weight: 105
+weight: 201
+showToc: false
 cover:
     image: "/experience/cabin4j/cabin4jLogo.png"
     # caption: "Photo by Lenin Estrada on Unsplash"
