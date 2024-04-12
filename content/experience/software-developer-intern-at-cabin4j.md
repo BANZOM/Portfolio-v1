@@ -3,7 +3,7 @@ title: "Software Developer Internship - CABIN4J"
 description: ""
 dateString: August 2023 - Present
 draft: false
-tags: ["java", "DevOps", "AWS", "CI/CD"]
+tags: ["java", "DevOps", "AWS", "CI/CD", "bash", "springboot"]
 weight: 105
 cover:
     image: "/experience/cabin4j/cabin4jLogo.png"
