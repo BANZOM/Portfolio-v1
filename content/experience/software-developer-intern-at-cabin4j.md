@@ -23,4 +23,6 @@ Overall, my ongoing internship at CABIN4J provides me with valuable experience i
 - Configured an AWS EC2 instance and deployed a Neo4j graph database server for integrating with other functions.
 - Implemented CI/CD for a web project, ensuring smooth deployment processes.
 
+<img src="/experience/cabin4j/xhopfront.png" style="width:100%; height:auto;">
+
 These experiences have allowed me to further enhance my skills and contribute to the success of the team at Cabin4J.
