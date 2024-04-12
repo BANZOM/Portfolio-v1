@@ -1,4 +1,99 @@
-baseURL: http://example.org/
+baseURL: ""
 languageCode: en-us
-title: My New Hugo Site
+title: BANZO
 theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 20
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 30
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 40
+    - identifier: certificates
+      name: Certificates
+      url: /certificates
+      weight: 50
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 60
+    - identifier: tags
+      name: Tags
+      url: /tags
+      weight: 70
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Aditya Panwar"
+    subtitle: Dedicated and innovative Software Developer with hands-on experience in **Generative AI (LLMs), Java, Python, and web technologies**. Skilled in developing scalable solutions and optimizing processes through automation and scripting. Currently working as a DevOps Intern at [**Cabin4j**](https://cabin4j.com/). Proven ability to work collaboratively in fast-paced environments, contributing to project success and team efficiency. Experienced in cloud platforms like AWS, proficient in database management, and well-versed in DevOps practices. Passionate about leveraging technology to drive business outcomes and deliver exceptional user experiences.
+    imageUrl: "/home/adityapanwar.png"
+    imageWidth: 220
+    imageHeight: 220
+    buttons:
+      - name: Resume
+        url: "https://drive.google.com/drive/u/3/folders/1w80Babn4wv7r5TRNY8Rhzr89XirG-mqm"
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:banzo.aditya@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/adityapanwars"
+    - name: "github"
+      url: "https://github.com/banzom"
+    - name: "twitter"
+      url: "https://twitter.com/adityapanwarr"
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
