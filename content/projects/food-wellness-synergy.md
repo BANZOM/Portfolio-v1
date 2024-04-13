@@ -7,7 +7,7 @@ tags: ["HTML", "CSS", "Python", "LLM", "Flask"]
 weight: 301
 showToc: true
 ---
-# Food & Wellness Synergy: Personalized Recipe System
+# AI Powered Personalized Recipe System
 
 In March 2024, I led the development of Food & Wellness Synergy, a personalized recipe suggestion system that harnesses the power of Advanced Gemini LLMs and Flask. This system allows users to receive customized recipe recommendations based on food products they provide, enabling them to explore a wide range of culinary options tailored to their preferences.
 
@@ -35,3 +35,5 @@ The system's standout feature is its ability to provide customized recipe recomm
 Food & Wellness Synergy represents a significant advancement in personalized recipe systems, offering users a unique and tailored culinary experience. Moving forward, I am committed to enhancing the system's capabilities, integrating more advanced AI models, and exploring new technologies to further enrich the user's culinary journey.
 
 Stay tuned for updates and enhancements as we continue to innovate in the realm of food technology and wellness synergy!
+
+[Github Repo Link](https://github.com/BANZOM/TG_Bot)
