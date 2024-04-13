@@ -3,7 +3,7 @@ title: "Carrer Essentials in Generative AI"
 dateString: Sept 2023
 description: Microsoft and Linkedin
 draft: false
-tags: ["AI", "LLMs", "Prompt Enginnering", "AI Ethics"]
+tags: ["AI", "LLM", "Prompt Enginnering", "AI Ethics"]
 showToc: false
 weight: 402
 cover:
