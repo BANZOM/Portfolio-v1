@@ -4,7 +4,8 @@ description: "Enhance generative AI models by incorporating real-time external d
 dateString: Dec 2021
 draft: false
 tags: ["LLM", "Generative AI", "GPT", "Transformer", "RAG"]
-weight: 101
+weight: 150
+showToc: true
 cover:
     image: "/blogs/rag/rag_cover.png"
 ---
