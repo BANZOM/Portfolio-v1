@@ -1,6 +1,6 @@
 baseURL: ""
 languageCode: en-us
-title: BANZO
+title: BANZO-TEST
 theme: PaperMod
 
 menu:
@@ -67,7 +67,7 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:banzo.aditya@gmail.com"
+      url: "mailto:aditya@banzo.tech"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/adityapanwars"
     - name: "github"
