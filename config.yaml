@@ -9,8 +9,8 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: blog
-      name: Blog
+    - identifier: blogs
+      name: Blogs
       url: /blogs
       weight: 20
     - identifier: experience
@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Aditya Panwar"
-    subtitle: Dedicated and innovative Software Developer with hands-on experience in **Generative AI (LLMs), Java, Python, and web technologies**. Skilled in developing scalable solutions and optimizing processes through automation and scripting. Currently working as a DevOps Intern at [**Cabin4j**](https://cabin4j.com/). Proven ability to work collaboratively in fast-paced environments, contributing to project success and team efficiency. Experienced in cloud platforms like AWS, proficient in database management, and well-versed in DevOps practices. Passionate about leveraging technology to drive business outcomes and deliver exceptional user experiences.
+    subtitle: "Dedicated and innovative Software Developer with hands-on experience in **Generative AI (LLMs), Java, Python, and web technologies**. Skilled in developing scalable solutions and optimizing processes through automation and scripting. <br><br> <span style='border-bottom: 1px dotted;'> Currently working </span> as a DevOps Intern at [**Cabin4j**](https://cabin4j.com/). Proven ability to work collaboratively in fast-paced environments, contributing to project success and team efficiency. Experienced in cloud platforms like AWS, GCP and Azure, proficient in database management, and well-versed in DevOps practices. Passionate about leveraging technology to drive business outcomes and deliver exceptional user experiences."
     imageUrl: "/home/adityapanwar.png"
     imageWidth: 220
     imageHeight: 220
