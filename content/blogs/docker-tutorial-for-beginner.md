@@ -2,7 +2,7 @@
 title: "Docker Tutorial for Beginners"
 description: "A beginner's guide to Docker and Containerization"
 dateString: Jun 2024
-draft: true
+draft: false
 tags: ["Docker", "Containerization", "DevOps", "Containers"]
 weight: 148
 showToc: true
