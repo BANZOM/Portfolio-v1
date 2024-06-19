@@ -2,7 +2,7 @@
 title: "How to work with Docker - Complete Hands-On"
 description: "A comprehensive guide to understanding and working with Docker. This tutorial covers Docker installation, containerization of a project, image creation, Dockerfile, and more."
 dateString: Jun 2024
-draft: true
+draft: false
 tags: ["Docker", "Containerization", "DevOps", "Containers"]
 weight: 147
 showToc: true
