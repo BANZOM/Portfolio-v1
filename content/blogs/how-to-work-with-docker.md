@@ -225,14 +225,14 @@ Finally, push the Docker image to Docker Hub:
 docker push <username>/<repository_name>:latest
 ```
 
-Replace `<username>` and `<repository_name>` with your Docker Hub username and repository name.
-
 From next time, you can pull the image from Docker Hub and run the container on any machine. You can use the following command to pull the image and run the container:
 
 ```bash
 docker pull <username>/<repository_name>:latest
 docker run -p 3000:3000 <username>/<repository_name>:latest
 ```
+
+Replace `<username>` and `<repository_name>` with your Docker Hub username and repository name.
 
 
 ### Checking Logs
