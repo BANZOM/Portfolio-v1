@@ -2,7 +2,7 @@
 title: "Kubernetes Uncovered: A Deep Dive into Its Architecture"
 description: "A comprehensive guide to Kubernetes architecture, components, and how they work together. Learn how Kubernetes manages containerized applications and orchestrates them in a distributed environment."
 dateString: Jun 2024
-draft: true
+draft: false
 tags: ["Kubernetes", "DevOps", "Containerization", "Cloud Computing"]
 weight: 145
 showToc: true
