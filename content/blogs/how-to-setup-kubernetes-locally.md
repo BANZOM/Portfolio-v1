@@ -179,7 +179,7 @@ This will delete the single-node cluster you created.
 
 ## Setting Up a Multi-Node Kubernetes Cluster with Kind
 
-Creating a multi-node cluster with Kind is similar to creating a single-node cluster. You just need to specify the number of control-plane and worker nodes.
+Creating a multi-node cluster with Kind is similar to creating a single-node cluster. You only need to specify the number of control-plane and worker nodes.
 
 ### Step 1: Create a Multi-Node Cluster
 
