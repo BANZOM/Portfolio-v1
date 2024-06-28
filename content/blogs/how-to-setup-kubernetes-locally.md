@@ -2,7 +2,7 @@
 title: "Learning Kubernetes from Scratch: Setting Up Your Own Cluster with Kind"
 description: "A step-by-step guide to setting up a local Kubernetes cluster using Kind, covering single-node and multi-node configurations."
 dateString: Jun 2024
-draft: true
+draft: false
 tags: ["Kubernetes", "DevOps", "Containerization", "Cloud Computing"]
 weight: 144
 showToc: true
